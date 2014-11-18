@@ -1,0 +1,7 @@
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ObjectAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ObjectAdapter\bin\Debug\Pattern ObjectAdapter.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ObjectAdapter\bin\Debug\Pattern ObjectAdapter.pdb
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ObjectAdapter\obj\x86\Debug\Pattern ObjectAdapter.exe
+C:\Users\Julia\AppData\Local\Temporary Projects\Pattern ObjectAdapter\obj\x86\Debug\Pattern ObjectAdapter.pdb
+C:\Users\Julia\Desktop\C#Projects\Pattern ObjectAdapter\Pattern ObjectAdapter\obj\x86\Debug\Pattern ObjectAdapter.exe
+C:\Users\Julia\Desktop\C#Projects\Pattern ObjectAdapter\Pattern ObjectAdapter\obj\x86\Debug\Pattern ObjectAdapter.pdb
